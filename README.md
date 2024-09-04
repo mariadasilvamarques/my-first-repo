@@ -1,2 +1,2 @@
 # my-first-repo
-![maria](img/maria.png)
+![maria](maria.png)
